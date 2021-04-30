@@ -1,0 +1,1 @@
+This day reviewed BASH and Anaconda setups. This also covers Virtual Environments and setting them up. 
