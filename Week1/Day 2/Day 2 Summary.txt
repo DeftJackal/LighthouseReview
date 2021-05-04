@@ -1,0 +1,2 @@
+Day 2 was a review of slightly advanced python concepts. DateTime and Sets were the main points to cover. 
+The challenge today  was to build a poker shuffler. The strategy for this was to build a card deck and randomizer. Then create check cases for each of the possible hands and rank them. After this, create a dealer and rank the hands. Sets were very useful for this style of task. 
