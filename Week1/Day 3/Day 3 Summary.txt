@@ -1,0 +1,2 @@
+Day 3 is an introduction to API requests. JSON is introduced as way to view the results from an api call, and basic api calls are made. A .py file is included here along with the jupyter notebooks due to the deisre to have something to create an automated task for.
+A sub task is to create a BAT file to have the code execute automatically. 
