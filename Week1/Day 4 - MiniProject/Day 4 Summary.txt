@@ -1,0 +1,2 @@
+Day 4 was our first mini project. The entire day was dedicated to the project.The first project concerned API calls from london city transit. 
+For this and future projects I will include the original presentation as well as a seperate document with my current thoughts on it. 
