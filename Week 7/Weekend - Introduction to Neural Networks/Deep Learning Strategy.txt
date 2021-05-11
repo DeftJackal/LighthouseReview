@@ -1,0 +1,3 @@
+This day introduced us to the deep learning frameworks of Tensorflow, PyTorch and Keras. For the rest of this course, we focus on Keras, but to review the different frameworks look here. 
+
+We also created a basic neural network from a tutorial. This is named First Network. The individual steps in this network will be over explained for reference. Future networks will only have interesting steps described. 
