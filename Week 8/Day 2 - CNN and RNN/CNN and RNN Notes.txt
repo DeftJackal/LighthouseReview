@@ -1,1 +1,2 @@
-We create a preliminary CNN network to identify dogs and cats in this day. We also start with RNN and LSTM models in this day. They will be uploaded shortly. 
+We create a preliminary CNN network to identify dogs and cats in this day. We also start with RNN and LSTM models in this day.
+We created a RNN network from basic numpy. It wasn't perfect, but had a good proof of concept. We could add another layer to improve the result, but for now we will move onto other projects. 
